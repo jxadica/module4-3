@@ -1,0 +1,14 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+h2 {
+    color: aliceblue;
+}
+.result {
+    display: none;
+    color: red;
+    background-color: aliceblue;
+    height: fit-content;
+}
